@@ -1,0 +1,36 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Git
+.git
+.gitignore
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Test cache
+.pytest_cache/
+.mypy_cache/
+
+# Frontend
+node_modules/
+dist/
+
+# Evidence (user uploads/runtime data)
+backend/evidence/
+
+# Temporary files
+*.tmp
+*.temp

@@ -1,0 +1,20 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+rmdir /s /q .git
+# Environment
+.env
+
+evidence/
+# IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
